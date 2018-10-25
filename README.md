@@ -15,6 +15,6 @@ Steps for use:
 5. You should have something that looks like this: https://i.imgur.com/vvSFLux.png
 6. Congrats! Assuming BUTT was working well before, you should now have Song & Artist info attached to your stream and displaying.
 
-To see this working in action, check out http://Jboi.party (my website) and click on "stream" button to download a stream.pls file.  This can be played in most media players (I generally use Media Monkey or VLC Media Player).  The information should be displayed like this https://i.imgur.com/5k3vzxQ.png
+To see this working in action, check out https://imjohnwhy.com/ (my website) and click on the button to download a stream.pls file. This can be played in most media players (I generally use Media Monkey or VLC Media Player).  The information should be displayed like this https://i.imgur.com/5k3vzxQ.png
 
 Feel free to message me for comments, questions, and concerns, no matter how dumb you think it may be.
